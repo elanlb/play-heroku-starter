@@ -1,0 +1,14 @@
+# folders used in compilation and building
+logs
+target
+project/boot
+.g8
+
+# Folder for running locally
+local
+
+# IntelliJ specific folder
+.idea
+
+# Mac misc.
+.DS_Store

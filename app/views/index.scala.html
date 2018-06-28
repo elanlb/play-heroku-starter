@@ -1,0 +1,26 @@
+@* https://www.playframework.com/documentation/2.6.x/ScalaTemplates *@
+
+
+
+@* This template has one argument. *@
+@(time: String)
+
+@* The title is "Home" *@
+@main("Home") {
+
+@* The head goes here. *@
+<script src='@routes.Assets.versioned("javascripts/sampleScript.js")' type="text/javascript"></script>
+
+} {
+
+@* The main content goes here. *@
+
+<h1>Congratulations!</h1>
+
+<p>You have successfully configured Play Framework and you are ready to start developing your web app.</p>
+
+<h3>Date:</h3>
+@* Here, we access one of the arguments for 'index'. *@
+@time
+
+}
