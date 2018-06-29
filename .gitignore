@@ -2,10 +2,9 @@
 logs
 target
 project/boot
-.g8
 
-# Folder for running locally
-local
+# Folder for running locally (uncomment this after you clone the repository)
+#local
 
 # IntelliJ specific folder
 .idea
