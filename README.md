@@ -1,5 +1,5 @@
 # play-heroku-starter
-This is a fully maintained template for getting started with Play Framework (Scala) and deploying to Heroku.
+This is a NOT maintained template for getting started with Play Framework (Scala) and deploying to Heroku. Heroku removed free tier and the project was deleted :(
 
 ## Instructions
 I have created two YouTube videos that walk through the whole process of setting up and getting started. The first one is about cloning the repository to your computer, setting up and IDE, and how a Play application works. The second video is about how to get the application running and how to deploy it to Heroku.
